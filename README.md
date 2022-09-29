@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## 같이 걷는 개발자 김승모입니다.
-> 개발과 사람을 좋아하는 개발자 김승모입니다. 개발직군과 수다는 언제든 환영!
+> 개발과 사람을 좋아하는 개발자 김승모입니다. 개발직군과 수다는 언제든 환영!<br/>
 > 개발자의 가치는 코드에 있는것이 아니라, 서비스와 사람에게 있다고 생각합니다.
 ### 🎯 최근 집중하는 기술스택은 
 <div>
@@ -35,3 +35,7 @@ Here are some ideas to get you started:
 - [데이터 캐시, 호출 최적화(Debounce)를 이용한 검색 최적화](https://velog.io/@endmoseung/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%BA%90%EC%8B%9C-%ED%98%B8%EC%B6%9C-%EC%B5%9C%EC%A0%81%ED%99%94Debounce%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B2%80%EC%83%89-%EC%B5%9C%EC%A0%81%ED%99%94)
 <!-- BLOG-POST-LIST:END -->
 [기술 블로그 구경가기](https://velog.io/@endmoseung)  🏃🏻‍♀️💨
+
+### About me 💞️
+<a href="https://determined-uncle-1d5.notion.site/09a4d943279b46e4b3a9d8d6276b7e20" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://www.instagram.com/bat_hun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
