@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 [기술 블로그 구경가기](https://velog.io/@endmoseung)  🏃🏻‍♀️💨
 
 ### About me 💞️
-<a href="https://determined-uncle-1d5.notion.site/09a4d943279b46e4b3a9d8d6276b7e20" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-<a href="https://www.instagram.com/bat_hun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://velog.io/@endmoseung" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="https://www.instagram.com/mo___seung_2/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
