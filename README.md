@@ -39,3 +39,4 @@ Here are some ideas to get you started:
 ### About me 💞️
 <a href="https://velog.io/@endmoseung" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="https://www.instagram.com/mo___seung_2/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/%EC%8A%B9%EB%AA%A8-%EA%B9%80-848b2b242/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0966c2?style=flat-square&logo=linkedin&logoColor=white"/></a>
