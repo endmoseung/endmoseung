@@ -28,11 +28,10 @@ Here are some ideas to get you started:
 ### ✏️ 최근 기술 블로그에 이런 글을 공유하였습니다
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
-- [[회고] 구름톤(kakao x goorm) 4기 최우수상 후기](https://velog.io/@endmoseung/%EA%B5%AC%EB%A6%84%ED%86%A4kakao-x-goorm-4%EA%B8%B0-%ED%9B%84%EA%B8%B0)
-- [[회고] 스프린트를 기획해보자](https://velog.io/@endmoseung/%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8%EB%A5%BC-%EA%B8%B0%ED%9A%8D%ED%95%B4%EB%B3%B4%EC%9E%90)
-- [[React] 원치않는 도메인 이동 막기 (Protected Route)](https://velog.io/@endmoseung/%EC%9B%90%EC%B9%98%EC%95%8A%EB%8A%94-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%9D%B4%EB%8F%99-%EB%A7%89%EA%B8%B0Protected-Route)
-- [[Tech] 데이터 전송하기 React + Typescript](https://velog.io/@endmoseung/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1%ED%95%98%EA%B8%B0-React-Typescript)
-- [[Tech] 데이터 캐시, 호출 최적화(Debounce)를 이용한 검색 최적화](https://velog.io/@endmoseung/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%BA%90%EC%8B%9C-%ED%98%B8%EC%B6%9C-%EC%B5%9C%EC%A0%81%ED%99%94Debounce%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B2%80%EC%83%89-%EC%B5%9C%EC%A0%81%ED%99%94)
+- [서울 프론트엔드 스터디 회고](https://velog.io/@endmoseung/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%8A%A4%ED%84%B0%EB%94%94-%ED%9A%8C%EA%B3%A0)
+- [테크톡으로 성장하기](https://velog.io/@endmoseung/%ED%85%8C%ED%81%AC%ED%86%A1%EC%9C%BC%EB%A1%9C-%EC%84%B1%EC%9E%A5%ED%95%98%EA%B8%B0)
+- [신입 개발자의 우당탕탕 회고](https://velog.io/@endmoseung/%EC%8B%A0%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-%ED%9A%8C%EA%B3%A0)
+- [비전공 독학 백수에서 취업하기](https://velog.io/@endmoseung/%EB%B9%84%EC%A0%84%EA%B3%B5-%EB%8F%85%ED%95%99-%EB%B0%B1%EC%88%98%EC%97%90%EC%84%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 [기술 블로그 구경가기](https://velog.io/@endmoseung)  🏃🏻‍♀️💨
 
