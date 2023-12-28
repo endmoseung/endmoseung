@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### ✏️ 최근 기술 블로그에 이런 글을 공유하였습니다
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
-- [서울 프론트엔드 스터디 회고](https://velog.io/@endmoseung/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%8A%A4%ED%84%B0%EB%94%94-%ED%9A%8C%EA%B3%A0)
+- [이미지 최적화 근데 AWS와 NextJS를 곁들인](https://velog.io/@endmoseung/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B5%9C%EC%A0%81%ED%99%94-feat-NextJS)
 - [테크톡으로 성장하기](https://velog.io/@endmoseung/%ED%85%8C%ED%81%AC%ED%86%A1%EC%9C%BC%EB%A1%9C-%EC%84%B1%EC%9E%A5%ED%95%98%EA%B8%B0)
-- [신입 개발자의 우당탕탕 회고](https://velog.io/@endmoseung/%EC%8B%A0%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-%ED%9A%8C%EA%B3%A0)
+- [회고라고 쓰고 실패라고 부른다](https://velog.io/@endmoseung/%ED%9A%8C%EA%B3%A0%EB%9D%BC%EA%B3%A0-%EC%93%B0%EA%B3%A0-%EC%8B%A4%ED%8C%A8%EB%9D%BC%EA%B3%A0-%EB%B6%80%EB%A5%B8%EB%8B%A4.-feat-1%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90)
 - [비전공 독학 백수에서 취업하기](https://velog.io/@endmoseung/%EB%B9%84%EC%A0%84%EA%B3%B5-%EB%8F%85%ED%95%99-%EB%B0%B1%EC%88%98%EC%97%90%EC%84%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0)
 - [모노레포 과연 필요할까?](https://velog.io/@endmoseung/%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-%EA%B3%BC%EC%97%B0-%ED%95%84%EC%9A%94%ED%95%A0%EA%B9%8C)
 <!-- BLOG-POST-LIST:END -->
