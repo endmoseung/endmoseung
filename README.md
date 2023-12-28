@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=black">
   <img src="https://img.shields.io/badge/React.js-skyblue?style=for-the-badge&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/react_query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white">
+  <img src="https://img.shields.io/badge/aws-FF4154?style=for-the-badge&logo=aws&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 </div>
 
