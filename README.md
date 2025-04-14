@@ -1,6 +1,6 @@
 <!--
 **endmoseung/endmoseung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<br>
 
 Here are some ideas to get you started:
 
@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div>
+  <img src="https://github.com/user-attachments/assets/908c452f-c504-4f56-906e-09ad39997498">
+</div>
+
 ## 같이 걷는 개발자 김승모입니다.
 > 개발과 사람을 좋아하는 개발자 김승모입니다. 개발직군과 수다는 언제든 환영!<br/>
 > 개발자의 가치는 코드에 있는것이 아니라, 서비스와 사람에게 있다고 생각합니다.
+
 ### 🎯 최근 집중하는 기술스택은 
 <div>
   <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=black">
